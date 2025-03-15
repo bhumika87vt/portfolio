@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RESUME</title>
+    </head>
+    <style>
+         *{
+            margin:0;
+            padding:2px;
+            border:2em;
+            border-radius: 2em;
+            text-decoration: aliceblue;
+            background-image: -webkit-image-set();
+        }
+        body{
+            border: 2em;
+            margin:0;
+            padding: 20px;
+            background-color:black;
+            text-decoration-color: white;
+        }
+        h1{
+            color:rgb(230, 13, 230);
+            text-decoration: underline;
+        }
+        a{
+            color:brown;
+            padding: 20px 0;
+            border:2px;
+            border-radius: 2px;
+            border-color: aliceblue;
+
+        }
+        nav{
+            border: 2em;
+            border-color: aliceblue;
+            gap:20px;
+            display: flex;
+        }
+        nav a:hover{
+            text-decoration: underline;
+        }
+        p{
+            color:white;
+            text-align: left;
+            font-size:20px;
+            font-family: 'Times New Roman', Times, serif;
+            align-items: left;
+        }
+        hr{
+            color:white;
+        }
+        table{
+            margin:20px auto;
+            width:25%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+        th,td{
+            border:1px solid white;
+            padding: 8px;
+            text-align: left;
+            color: white;
+            align-items: left;
+        }
+        ul,li{
+            color:white;
+        }
+    </style>
+    <body>
+        <nav>
+        <a href="myprofile.html"><b>HOME</b></a>
+        <a href="resume.html"><b>RESUME</b></a>
+        <a href="biodata.html"><b>BIO-DATA</b></a></nav>
+        <h1 align="center"><b>RESUME</b></h1><br>
+        <p><b>NAME:</b>BHUMIKA V</p>
+        <p><b>Gender:</b>FEMALE</p>
+        <p><b>Address:</b>Hassan,Karnataka.</p>
+        <p><b>Pincode:</b>573133</p>
+        <p><b>Email:</b>bhumikavshetty07@gmail.com</p>
+        <p><b>Github:</b>https://github.com/bhumika87vt/githubtext</p>
+        <p><b>LinkedIn:</b>https://www.linkedin.com/in/bhumika-v-99358833a/</p>
+        <p><b>Contact:</b>7204355387</p><br>
+        <p style="color:rgb(204, 162, 100)"><b>Education:</b></p>
+        <table style="float: left;">
+            <thead>
+                <tr>
+                    <th><b>Course/Degree</b></th>
+                    <th><b>School/University</b></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>10th</td>
+                    <td>Christa Jyothi Public School,Arkalgud</td>
+                </tr>
+                <tr>
+                    <td>12th</td>
+                    <td>Sanvi PU College,Konanur</td>
+                </tr>
+                <tr>
+                    <td>Degree</td>
+                    <td>Mysuru Royal Institute Of Technology,Mandya</td>
+                </tr>
+            </tbody>
+        </table><br><br><br>
+        <br><br><br><br><br><br><br>
+        <p style="color:rgb(204, 162, 100)"><b>Skills:</b><br></p>
+        <ul>
+            <li>C Programming</li>
+            <li>Python</li>
+            <li>Java</li>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+        <p style="color:rgb(204, 162, 100)"><b>Languages:</b><br></p>
+        <ul>
+            <li>Kannada</li>
+            <li>English</li>
+            <li>Hindi</li>
+        </ul>
+        <p style="color:rgb(204, 162, 100)"><b>Hobbies:</b><br></p>
+        <ul>
+            <li>Dancing</li>
+            <li>Reading Books</li>
+            <li>Singing</li>
+            <li>Drawing</li>
+        </ul>
+        <p style="color:rgb(204, 162, 100)"><b>Certificates:</b><br></p><hr>
+        <ul>
+            <li>HTML[Udemy]</li>
+            <li>CSS[udemy]</li>
+        </ul>
+        <p style="color:rgb(204, 162, 100)"><b>Objectives:</b></p><hr>
+        <p>Aspiring to associate with an organization that ofers scop for professional and personal growth where in my educational
+            qualifications and skills could be utlized in an effictive and constructive manner.</p><br>
+    </body>
+</html>
